@@ -1,6 +1,12 @@
+ <div align="center">
+  <img src="assets/github1-banner.png" width="100%" alt="Mahathi's GitHub Banner" />
+</div>
+
+<br>
+
 <div align="center">
 
-# Hi, I'm Mahathi!✨
+# Hi, I'm Mahathi! 👋
 
 ### CSE (Data Science) Student | Aspiring Software Engineer
 
@@ -29,15 +35,22 @@ HTML | CSS | JavaScript | React | Node.js | Express.js | FastAPI
 
 **Areas of Interest**
 
-Data Engineering | Machine Learning | Full Stack Development
+Data Engineering | Machine Learning | Agentic AI | Full Stack Development
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| [AI Road & Vehicle Safety](https://github.com/MahathiKadiyala/AI-Road-Vehicle-Safety-System) | AI-powered road damage detection and vehicle safety |
-| [Work Mithra](https://github.com/MahathiKadiyala/Work_Mithra) | Service management platform |
-| [CollabSpace](https://github.com/MahathiKadiyala/CollabSpace) | Collaborative workspace project |
+### 🤖 AI & Machine Learning
+
+- [AI Road & Vehicle Safety System](https://github.com/MahathiKadiyala/AI-Road-Vehicle-Safety-System)
+  - AI-powered road damage detection and vehicle safety.
+
+### 💻 Full Stack Development
+
+- [Work Mithra](https://github.com/MahathiKadiyala/Work_Mithra)
+  - Smart service management platform connecting customers with local service workers.
+
+- [CollabSpace](https://github.com/MahathiKadiyala/CollabSpace)
+  - Collaborative workspace project.
 
 ## 📊 GitHub Statistics
 
@@ -46,6 +59,15 @@ Data Engineering | Machine Learning | Full Stack Development
 <img src="https://github-readme-stats.vercel.app/api?username=MahathiKadiyala&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahathiKadiyala&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mahathi_Kadiyala_06/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mahathi84)
 
 </div>
 
@@ -62,6 +84,6 @@ Data Engineering | Machine Learning | Full Stack Development
 
 <div align="center">
 
-*learning. building. growing. 🌱*
+*Learning. Building. Growing. 🌱*
 
 </div>

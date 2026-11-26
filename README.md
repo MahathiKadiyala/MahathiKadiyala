@@ -1,16 +1,14 @@
  <div align="center">
-  <img src="assets/github-banner1.png" width="100%" alt="Mahathi's GitHub Banner" />
+  <img src="./github-banner1.png" width="100%" alt="Mahathi's GitHub Banner" />
 </div>
 
 <br>
 
 <div align="center">
 
-# Hi, I'm Mahathi! 👋
+# Hi, I'm Mahathi!
 
 ### CSE (Data Science) Student | Aspiring Software Engineer
-
-*Learning • Exploring • Evolving*
 
 </div>
 

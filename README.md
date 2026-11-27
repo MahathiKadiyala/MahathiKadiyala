@@ -52,12 +52,12 @@
 
 ### AI & Machine Learning
 
-- [**AI Road & Vehicle Safety System ↗**](https://github.com/MahathiKadiyala/AI-Road-Vehicle-Safety-System) — AI-powered road damage detection and vehicle safety.
+- [AI Road & Vehicle Safety System](https://github.com/MahathiKadiyala/AI-Road-Vehicle-Safety-System) — AI-powered road damage detection and vehicle safety.
 
 ### Full Stack Development
 
-- [**Work Mithra ↗**](https://github.com/MahathiKadiyala/Work_Mithra) — Smart service management platform connecting customers with local service workers.
-- [**CollabSpace ↗**](https://github.com/MahathiKadiyala/CollabSpace) — Collaborative workspace project.
+- [Work Mithra](https://github.com/MahathiKadiyala/Work_Mithra) — Smart service management platform connecting customers with local service workers.
+- [CollabSpace](https://github.com/MahathiKadiyala/CollabSpace) — Collaborative workspace project.
 
 ## 📊 GitHub Statistics
 
